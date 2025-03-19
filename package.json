@@ -1,0 +1,21 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "keywords": [
+    "node",
+    "chai",
+    "express"
+  ],
+  "license": "ISC",
+  "author": "sachin kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
